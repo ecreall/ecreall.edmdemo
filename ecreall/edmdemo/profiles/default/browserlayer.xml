@@ -1,0 +1,4 @@
+<layers>
+    <layer name="ecreall.edmdemo"
+           interface="ecreall.edmdemo.browser.interfaces.ILayer" />
+</layers>

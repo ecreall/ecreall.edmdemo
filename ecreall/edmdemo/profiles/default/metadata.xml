@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1</version>
+  <dependencies>
+    <dependency>profile-Products.AROfficeTransforms:default</dependency>
+    <dependency>profile-Products.OpenXml:default</dependency>
+    <dependency>profile-atreal.monkeyplone:default</dependency>
+    <dependency>profile-ecreall.trashcan:default</dependency>
+    <dependency>profile-collective.edm.listing:default</dependency>
+    <dependency>profile-collective.favorites:default</dependency>
+    <dependency>profile-collective.mtrsetup:example</dependency>
+    <dependency>profile-collective.portlet.customizablerecent:default</dependency>
+    <dependency>profile-eea.tags:default</dependency>
+    <dependency>profile-ecreall.trashcan:default</dependency>
+  </dependencies>
+</metadata>
