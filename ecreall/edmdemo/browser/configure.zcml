@@ -24,7 +24,7 @@
         layer=".interfaces.ILayer"
         permission="zope2.View" />
 
-  <browser:page
+  <browser:viewlet
         for="Products.CMFCore.interfaces.IFolderish"
         class=".viewlets.EmptyDocumentByLineViewlet"
         viewletmanager="plone.app.layout.viewlets.interfaces.IBelowContentTitle"

@@ -6,6 +6,7 @@
     <dependency>profile-Products.OpenXml:default</dependency>
     <dependency>profile-atreal.monkeyplone:default</dependency>
     <dependency>profile-ecreall.trashcan:default</dependency>
+    <dependency>profile-collective.documentviewer:default</dependency>
     <dependency>profile-collective.edm.listing:default</dependency>
     <dependency>profile-collective.favorites:default</dependency>
     <dependency>profile-collective.mtrsetup:example</dependency>

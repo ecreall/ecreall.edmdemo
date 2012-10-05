@@ -7,7 +7,7 @@ setup(name='ecreall.edmdemo',
       version=version,
       description="EDM demo site",
       long_description=open("README.rst").read() + "\n" +
-                       open("CHANGES.txt").read().read(),
+                       open("CHANGES.txt").read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
@@ -32,6 +32,7 @@ setup(name='ecreall.edmdemo',
           'Products.AROfficeTransforms',
           'Products.OpenXml',
           'atreal.monkeyplone',
+          'collective.documentviewer',
           'collective.edm.listing',
           'collective.favorites',
           'collective.mtrsetup',
