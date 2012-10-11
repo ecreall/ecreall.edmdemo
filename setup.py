@@ -43,7 +43,6 @@ setup(name='ecreall.edmdemo',
           'ecreall.trashcan',
           'eea.tags',
           'iw.rejectanonymous',
-          'plone.app.async',
       ],
       extras_require = dict(
           tests=['plone.app.testing'],
